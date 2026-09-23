@@ -1,9 +1,32 @@
 {
-  "name":"Kowalski Prompt Builder",
-  "short_name":"Prompt Builder",
-  "start_url":"/",
-  "display":"standalone",
-  "background_color":"#141414",
-  "theme_color":"#F59E0B",
-  "description":"Kowalski Concrete's preset-first creative prompt builder."
+ "name": "Kowalski Prompt Builder",
+ "short_name": "Prompt Builder",
+ "id": "/",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#141414",
+ "theme_color": "#F59E0B",
+ "description": "Kowalski Concrete's preset-first creative prompt builder.",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
 }
