@@ -1,0 +1,9 @@
+{
+  "name":"Kowalski Prompt Builder",
+  "short_name":"Prompt Builder",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#141414",
+  "theme_color":"#F59E0B",
+  "description":"Kowalski Concrete's preset-first creative prompt builder."
+}
